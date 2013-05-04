@@ -1,0 +1,1 @@
+("5.3.3" ("f8448481938c0f6bac4dc2d4a3fec8571329f72e" . "cfdade8e0ba6cea78075979602e5bb5ee08d9fae") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"drracket" #"private" #"palaka.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

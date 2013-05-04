@@ -1,0 +1,1 @@
+("5.3.3" ("41d67c7178c8831328116a25baf17c0252ee8ecd" . "dc3b9b299462eb718f271e04e408a9c2fd1d1975") (collects #"racket" #"base.rkt") (collects #"ffi" #"unsafe" #"atomic.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

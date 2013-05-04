@@ -1,0 +1,1 @@
+("5.3.3" ("652a558f1ae66cd1febbdd93eb65876422b4cb6c" . "e1101d2f97914a3844c05169cb76faebbd624c8d") (collects #"scheme" #"base.rkt") (collects #"texpict" #"face.rkt"))

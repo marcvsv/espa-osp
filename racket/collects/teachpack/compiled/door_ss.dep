@@ -1,0 +1,1 @@
+("5.3.3" ("12e21b21eccf648e6c787b374a3c11938f6c5a14" . "3117e9c646a550c7624b45a962fcec529bb24c3e") (collects #"slideshow" #"pict.rkt") (collects #"slideshow" #"main.rkt") (collects #"slideshow" #"lang" #"reader.rkt"))

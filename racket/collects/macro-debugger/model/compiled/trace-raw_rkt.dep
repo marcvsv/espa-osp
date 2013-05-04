@@ -1,0 +1,1 @@
+("5.3.3" ("9b54dd6a978c2343abdc9c8941a48d67f0cd49cc" . "4a5d98829f792aac6d6bfd1a83631140df370a81") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"macro-debugger" #"syntax-browser" #"frame.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"macro-debugger" #"model" #"deriv-tokens.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

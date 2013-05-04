@@ -1,0 +1,1 @@
+("5.3.3" ("983ab83060e635855b430f6f74d9f0dd3de59e10" . "eb7950daa6348c6df0447e63a158dc7b904e5a41") (collects #"racket" #"base.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"syntax" #"stx.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

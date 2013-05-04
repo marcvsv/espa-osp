@@ -1,0 +1,1 @@
+("5.3.3" ("fec64d8addae5ae5077f2c7a8c865baa821d804d" . "29104d4af4a57424772e64b0233e45ea3c114cc0") (collects #"scheme" #"base.rkt") (collects #"rnrs" #"io" #"ports-6.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

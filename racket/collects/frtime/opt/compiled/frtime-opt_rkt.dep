@@ -1,0 +1,1 @@
+("5.3.3" ("20cee99f8d5b0d65b5f3e7d824983839a0d337d7" . "39e912143609222931b8a152e5134a62b4faa4b2") (collects #"racket" #"list.rkt") (collects #"frtime" #"opt" #"lowered-equivs.rkt") (collects #"frtime" #"core" #"frp.rkt") (collects #"frtime" #"lang-core.rkt") (collects #"srfi" #"1.rkt") (collects #"frtime" #"lang-ext.rkt") (collects #"racket" #"main.rkt"))

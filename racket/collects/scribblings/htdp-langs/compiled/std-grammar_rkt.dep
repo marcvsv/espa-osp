@@ -1,0 +1,1 @@
+("5.3.3" ("74cc75e5065a5f544aef204e783212c12c2ac34c" . "fe3359a9505842a340c8ec5446b006e5fec112c3") (collects #"scribblings" #"htdp-langs" #"common.rkt") (collects #"racket" #"base.rkt") (collects #"scribble" #"decode.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt") (collects #"scribble" #"reader.rkt"))

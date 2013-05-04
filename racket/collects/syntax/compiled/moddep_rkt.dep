@@ -1,0 +1,1 @@
+("5.3.3" ("49d561386a8712aa07f104a2a6ec5480da4996b2" . "d042aaf8fa74ec2f35856366a67176192fd8b35f") (collects #"syntax" #"modcode.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"modread.rkt") (collects #"syntax" #"modresolve.rkt") (collects #"syntax" #"modcollapse.rkt"))

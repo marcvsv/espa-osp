@@ -1,0 +1,1 @@
+("5.3.3" ("c266279c0848ca16d6c0b8d24d2b7f8bd6d8d68d" . "47ff05eae5b8bd09d9ec50e62fafa6142eb6dbf8") (collects #"mzlib" #"process.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"setup" #"dirs.rkt"))

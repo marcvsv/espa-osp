@@ -1,0 +1,1 @@
+("5.3.3" ("cc96aebb703bdbac04b74bb41580c674dc075b41" . "c3e1876e49c86ccd8f3b4c11dc59d111cee70519") (collects #"scheme" #"base.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"slatex" #"slatex-wrapper.rkt"))

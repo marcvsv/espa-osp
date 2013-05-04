@@ -1,0 +1,1 @@
+("5.3.3" ("18c4c82567a8a1256bb40f4fc4dba94edc99edfd" . "13b71e1717b54576ef70e0a2ef2d58f613d5267e") (collects #"racket" #"base.rkt") (collects #"syntax" #"parse.rkt") (collects #"typed" #"racket" #"base.rkt") (collects #"math" #"private" #"array" #"array-struct.rkt") (collects #"syntax" #"parse" #"private" #"parse-aux.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

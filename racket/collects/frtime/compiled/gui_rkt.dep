@@ -1,0 +1,1 @@
+("5.3.3" ("4ab81278fe9294d75f620263ff05c3d652c104cb" . "63bea3b2d62635b6d4e4bb7cccd68eeddde3a029") (collects #"frtime" #"gui" #"fred.rkt") (collects #"frtime" #"main.rkt"))

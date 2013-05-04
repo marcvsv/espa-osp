@@ -1,0 +1,1 @@
+("5.3.3" ("9ef72a7300fbdc469a0be034ae19823570110f26" . "56e1f128841602c4335da6ec6676d7ba2ab67476") (collects #"scribblings" #"guide" #"dollar.rkt") (collects #"syntax" #"module-reader.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.3" ("53b4e92ce955d353470ebd88f1259e7bcf726e10" . "d8df682feb68f0982489351ab5b90fc8086ae8ce") (collects #"racket" #"base.rkt") (collects #"parser-tools" #"lex-sre.rkt") (collects #"datalog" #"private" #"lex.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

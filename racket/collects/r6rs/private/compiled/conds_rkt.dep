@@ -1,0 +1,1 @@
+("5.3.3" ("ff89d05456030982b7134e90f77969ed950d20e3" . "180d882905d7adca902932e482bd7419d3792758") (collects #"scheme" #"mpair.rkt") (collects #"r6rs" #"private" #"exns.rkt") (collects #"scheme" #"base.rkt") (collects #"rnrs" #"records" #"syntactic-6.rkt") (collects #"rnrs" #"records" #"procedural-6.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

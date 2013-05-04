@@ -1,0 +1,1 @@
+("5.3.3" ("17ecf07e25b3b7b8a95e1a8914deffed494ff49f" . "161ce4e3437d617c59421906d3e362de4a72c11c") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"compiler" #"embed.rkt"))

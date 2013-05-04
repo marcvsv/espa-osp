@@ -1,0 +1,1 @@
+("5.3.3" ("8bd521a80c704c0503d0fccaafdda5e15ed0fd74" . "746099d5a0b2b7e30cd75920d630eb6b8f9089d8") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"games" #"cards.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

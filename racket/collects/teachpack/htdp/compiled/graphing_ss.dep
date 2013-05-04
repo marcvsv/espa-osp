@@ -1,0 +1,1 @@
+("5.3.3" ("46983e870bfaaabd8faa0a24a2c9be99bf513766" . "1b69162a80f9f4a45fd07a887d201a15acb9589d") (collects #"racket" #"base.rkt") (collects #"htdp" #"graphing.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

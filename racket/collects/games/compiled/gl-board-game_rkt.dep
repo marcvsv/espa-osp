@@ -1,0 +1,1 @@
+("5.3.3" ("5a744d25e0063af05d25880490a5e539fc9be90f" . "fcc5a4857a253474e55cf63a0e1d89c680a9b6d8") (collects #"scheme" #"base.rkt") (collects #"games" #"gl-board-game" #"gl-board.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

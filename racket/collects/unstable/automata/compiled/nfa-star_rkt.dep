@@ -1,0 +1,1 @@
+("5.3.3" ("2196b918c3f4e91eca8956a9024cdee0e7336ad4" . "5008c781389b89df3f6ad830a0bc89a2530df283") (collects #"racket" #"base.rkt") (collects #"unstable" #"automata" #"nfa-ep.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,516 @@
+# Este arquivo viminfo foi gerado pelo Vim 7.2.
+# Você pode editá-lo se for cuidadoso!
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Último padrão de busca :
+~MSle0~/Login
+
+# Última string de substituição:
+$
+
+# Histórico de Linha de comando (mais recente primeiro):
+:q
+:w
+:W
+:q!
+:1
+:169
+:228
+:6356
+:146
+:182
+:172
+:140
+:127
+:98
+:21
+:10
+:166
+:168
+:173
+:179
+:170
+:143
+:142
+:96
+:w!
+
+# Histórico de Expressões de busca (mais recente primeiro):
+?/Login
+?/"y"
+?/y
+?/"Submit"
+?/"líderes"
+?/"leaders"
+?/leaders
+?/"threads"
+?/welcome-url
+?/welcome-url*
+?/"welcome"
+?/Espa
+?/"Espaço"
+?/Verdana
+?/Layout
+?/ex
+?/tag b
+?/color:
+?/color
+?/this-site
+?/topsel
+?/Espaço
+?/1
+?/caching
+?/"comments"
+?/comments
+?/"new"
+?/new
+?/222222
+?/arc.png
+?/My Forum
+?/toplink
+?/comment
+?/novas
+?/comentários
+?/threads
+?/"newest"
+?/arc
+?/layout
+?/votejs
+?/vote
+?/font-family
+?/pwfield
+?/google
+?/googlefonts
+?/site-url
+? ^\d\{3}ÿ
+?/Passwords
+?/contat
+?/"Forgot
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Registradores:
+"0	CHAR	0
+	(defop
+"1	LINE	0
+	
+"2	LINE	0
+	
+""-	CHAR	0
+	What this site is about."               ; for rss feed
+
+# Marcas nos arquivos:
+'0  1463  11  ~/arc/lib/news.arc
+'1  1451  0  ~/arc/lib/news.arc
+'2  2259  56  ~/arc/lib/news.arc
+'3  608  33  ~/arc/lib/news.arc
+'4  2169  58  ~/arc/lib/news.arc
+'5  598  25  ~/arc/lib/news.arc
+'6  601  8  ~/arc/lib/news.arc
+'7  1  0  ~/news.arc
+'8  600  11  ~/arc/lib/news.arc
+'9  17  18  ~/arc/lib/news.arc
+
+# Lista de saltos (mais recente primeiro):
+-'  1463  11  ~/arc/lib/news.arc
+-'  1451  0  ~/arc/lib/news.arc
+-'  2259  2  ~/arc/lib/news.arc
+-'  608  31  ~/arc/lib/news.arc
+-'  2262  25  ~/arc/lib/news.arc
+-'  2169  12  ~/arc/lib/news.arc
+-'  606  32  ~/arc/lib/news.arc
+-'  598  0  ~/arc/lib/news.arc
+-'  601  2  ~/arc/lib/news.arc
+-'  600  0  ~/arc/lib/news.arc
+-'  1  0  ~/news.arc
+-'  603  27  ~/arc/lib/news.arc
+-'  18  0  ~/arc/lib/news.arc
+-'  17  3  ~/arc/lib/news.arc
+-'  483  0  ~/arc/lib/news.arc
+-'  405  7  ~/arc/lib/news.arc
+-'  583  32  ~/arc/lib/news.arc
+-'  579  19  ~/arc/lib/news.arc
+-'  469  45  ~/arc/lib/news.arc
+-'  2111  48  ~/arc/lib/news.arc
+-'  1760  40  ~/arc/lib/news.arc
+-'  1154  0  ~/arc/lib/news.arc
+-'  1150  22  ~/arc/lib/news.arc
+-'  1146  16  ~/arc/lib/news.arc
+-'  1058  18  ~/arc/lib/news.arc
+-'  1004  38  ~/arc/lib/news.arc
+-'  794  58  ~/arc/lib/news.arc
+-'  770  38  ~/arc/lib/news.arc
+-'  764  6  ~/arc/lib/news.arc
+-'  625  28  ~/arc/lib/news.arc
+-'  1  0  ~/arc/lib/bews.arc
+-'  575  10  ~/arc/lib/news.arc
+-'  402  6  ~/arc/lib/news.arc
+-'  451  13  ~/arc/lib/news.arc
+-'  413  17  ~/arc/lib/news.arc
+-'  22  3  ~/arc/lib/news.arc
+-'  2239  21  ~/arc/lib/news.arc
+-'  810  27  ~/arc/lib/news.arc
+-'  10  18  ~/arc/lib/news.arc
+-'  799  12  ~/arc/lib/news.arc
+-'  704  19  ~/arc/lib/news.arc
+-'  712  19  ~/arc/lib/news.arc
+-'  465  33  ~/arc/lib/news.arc
+-'  462  0  ~/arc/lib/news.arc
+-'  538  0  ~/arc/lib/news.arc
+-'  610  4  ~/arc/lib/news.arc
+-'  607  4  ~/arc/lib/news.arc
+-'  2333  46  ~/arc/lib/news.arc
+-'  854  2  ~/arc/lib/news.arc
+-'  632  26  ~/arc/lib/news.arc
+-'  631  34  ~/arc/lib/news.arc
+-'  604  22  ~/arc/lib/news.arc
+-'  545  6  ~/arc/lib/news.arc
+-'  615  39  ~/arc/lib/news.arc
+-'  499  0  ~/arc/lib/news.arc
+-'  488  0  ~/arc/lib/news.arc
+-'  487  0  ~/arc/lib/news.arc
+-'  387  0  ~/arc/lib/news.arc
+-'  24  33  ~/arc/lib/news.arc
+-'  591  4  ~/arc/lib/news.arc
+-'  605  4  ~/arc/lib/news.arc
+-'  1838  5  ~/arc/lib/news.arc
+-'  1829  39  ~/arc/lib/news.arc
+-'  1654  15  ~/arc/lib/news.arc
+-'  1464  42  ~/arc/lib/news.arc
+-'  1376  58  ~/arc/lib/news.arc
+-'  918  0  ~/arc/lib/news.arc
+-'  910  47  ~/arc/lib/news.arc
+-'  902  9  ~/arc/lib/news.arc
+-'  900  49  ~/arc/lib/news.arc
+-'  899  29  ~/arc/lib/news.arc
+-'  896  12  ~/arc/lib/news.arc
+-'  884  40  ~/arc/lib/news.arc
+-'  866  2  ~/arc/lib/news.arc
+-'  762  20  ~/arc/lib/news.arc
+-'  619  32  ~/arc/lib/news.arc
+-'  609  0  ~/arc/lib/news.arc
+-'  2206  0  ~/arc/lib/news.arc
+-'  2199  19  ~/arc/lib/news.arc
+-'  2186  5  ~/arc/lib/news.arc
+-'  1512  10  ~/arc/lib/news.arc
+-'  869  2  ~/arc/lib/news.arc
+-'  616  21  ~/arc/lib/news.arc
+-'  614  11  ~/arc/lib/news.arc
+-'  2  0  ~/arc/lib/news.ar
+-'  1  0  ~/arc/lib/news.ar
+-'  547  20  ~/arc/lib/news.arc
+-'  546  6  ~/arc/lib/news.arc
+-'  468  7  ~/arc/lib/news.arc
+-'  464  14  ~/arc/lib/news.arc
+-'  440  24  ~/arc/lib/news.arc
+-'  392  58  ~/arc/lib/news.arc
+-'  4  55  ~/arc/lib/news.arc
+-'  498  0  ~/arc/lib/news.arc
+-'  125  34  ~/arc/lib/news.arc
+-'  528  0  ~/arc/lib/news.arc
+-'  400  30  ~/arc/lib/news.arc
+-'  394  0  ~/arc/lib/news.arc
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/arc/lib/news.arc
+	"	1463	11
+	^	1451	0
+	.	1450	194
+	+	470	37
+	+	471	37
+	+	472	0
+	+	483	40
+	+	491	33
+	+	488	61
+	+	489	62
+	+	485	61
+	+	400	48
+	+	400	67
+	+	400	31
+	+	402	0
+	+	400	31
+	+	560	0
+	+	400	30
+	+	394	1
+	+	401	34
+	+	571	2
+	+	571	2
+	+	572	0
+	+	528	0
+	+	10	27
+	+	11	37
+	+	12	36
+	+	14	51
+	+	15	33
+	+	16	34
+	+	489	61
+	+	498	0
+	+	489	61
+	+	465	0
+	+	387	78
+	+	616	18
+	+	618	26
+	+	619	25
+	+	620	23
+	+	622	19
+	+	619	25
+	+	608	35
+	+	866	55
+	+	619	21
+	+	618	22
+	+	616	17
+	+	608	34
+	+	866	54
+	+	619	21
+	+	620	20
+	+	10	27
+	+	11	37
+	+	12	40
+	+	11	29
+	+	15	34
+	+	16	33
+	+	387	79
+	+	488	61
+	+	483	61
+	+	596	35
+	+	600	24
+	+	604	18
+	+	632	27
+	+	854	55
+	+	2333	23
+	+	596	59
+	+	607	24
+	+	610	21
+	+	712	50
+	+	810	24
+	+	579	67
+	+	488	61
+	+	483	61
+	+	12	25
+	+	13	33
+	+	16	33
+	+	596	29
+	+	598	25
+	+	603	24
+	+	598	14
+	+	603	34
+	+	598	11
+	+	599	0
+	+	598	14
+	+	603	44
+	+	598	15
+	+	603	24
+	+	598	23
+	+	596	58
+	+	606	32
+	+	2169	58
+	+	2259	57
+	+	596	83
+	+	608	31
+	+	2259	56
+	+	1426	19
+	+	1436	20
+	+	1441	26
+	+	1440	29
+	+	1442	24
+	+	1443	27
+	+	1450	195
+	+	1450	194
+
+> ~/news.arc
+	"	1	0
+
+> ~/arc/lib/bews.arc
+	"	1	0
+
+> ~/arc/lib/news.ar
+	"	2	0
+	^	2	0
+	.	1	2
+	+	1	2
+
+> ~/arc/news.arc
+	"	1	0
+	^	553	7
+	.	553	7
+	+	13	30
+	+	10	27
+	+	1471	107
+	+	1456	20
+	+	1461	28
+	+	1462	26
+	+	1472	0
+	+	1460	32
+	+	407	34
+	+	405	31
+	+	407	34
+	+	570	0
+	+	559	15
+	+	569	1
+	+	571	0
+	+	569	9
+	+	405	18
+	+	406	19
+	+	407	6
+	+	560	0
+	+	569	1
+	+	570	0
+	+	569	0
+	+	553	7
+
+> /lib/news.arc
+	"	1	0
+
+> ~/arc/arc/admins
+	"	1	0
+
+> ~/arc/admins
+	"	1	0
+
+> ~/arc/lib/app.arc
+	"	1	0
+
+> ~/arc/app.arc
+	"	1	0
+	^	228	16
+	.	228	15
+	+	142	34
+	+	188	35
+	+	189	15
+	+	190	33
+	+	191	0
+	+	190	10
+	+	189	10
+	+	211	316
+	+	211	343
+	+	211	456
+	+	299	78
+	+	301	77
+	+	186	0
+	+	185	16
+	+	185	63
+	+	160	26
+	+	167	8
+	+	168	52
+	+	147	37
+	+	173	30
+	+	175	34
+	+	176	30
+	+	179	43
+	+	185	27
+	+	185	16
+	+	186	9
+	+	186	0
+	+	181	28
+	+	181	28
+	+	182	25
+	+	184	39
+	+	193	24
+	+	198	0
+	+	197	30
+	+	201	63
+	+	211	31
+	+	211	31
+	+	211	193
+	+	211	192
+	+	211	192
+	+	211	191
+	+	211	137
+	+	212	0
+	+	228	19
+	+	261	366
+	+	261	264
+	+	261	508
+	+	261	460
+	+	261	700
+	+	261	61
+	+	261	363
+	+	261	335
+	+	261	502
+	+	262	0
+	+	271	0
+	+	147	27
+	+	157	26
+	+	165	0
+	+	185	0
+	+	228	11
+	+	260	41
+	+	261	146
+	+	261	66
+	+	261	2
+	+	261	0
+	+	260	0
+	+	259	0
+	+	258	0
+	+	257	0
+	+	256	0
+	+	255	0
+	+	254	0
+	+	253	0
+	+	252	0
+	+	251	0
+	+	250	0
+	+	249	0
+	+	248	0
+	+	247	0
+	+	246	0
+	+	245	0
+	+	244	0
+	+	243	0
+	+	242	0
+	+	241	0
+	+	240	0
+	+	239	0
+	+	238	0
+	+	237	0
+	+	236	0
+	+	235	0
+	+	234	0
+	+	233	0
+	+	232	0
+	+	231	0
+	+	230	0
+	+	229	0
+	+	228	0
+	+	229	0
+	+	228	15
+
+> /etc/postfix/sasl_passwd.db
+	"	1	0
+
+> /etc/postfix/sasl_passwd
+	"	1	0
+
+> ~/arc/arc/cooks
+	"	1	112
+
+> ~/arc/arc/hpw
+	"	1	0
+
+> ~/arc/arc/cook
+	"	1	0
+
+> ~/arc/arc/cookies
+	"	1	0
+
+> ~/arc/mzscheme
+	"	1	0
+
+> lib/app.arc
+	"	1	0
+
+> ~/arc/hpw.arc
+	"	1	0
+
+> ~/arc/hpw
+	"	1	0

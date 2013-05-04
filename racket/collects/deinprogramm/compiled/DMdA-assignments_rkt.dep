@@ -1,0 +1,1 @@
+("5.3.3" ("9742eb861f522c06d2fec1ece7fac0f600b0fbcd" . "c7cd7ada8c28b7fd61fe0bb36a75e04482ed18d3") (collects #"deinprogramm" #"DMdA-deflam.rkt") (collects #"deinprogramm" #"DMdA.rkt") (collects #"syntax" #"docprovide.rkt") (collects #"deinprogramm" #"DMdA" #"lang" #"reader.rkt"))

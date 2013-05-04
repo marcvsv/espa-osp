@@ -1,0 +1,1 @@
+("5.3.3" ("38c63c8a800ba8a8aeea899015388d1fd7b276df" . "2cd8ed0922ddc6542075836736815ced6558f8c9") (collects #"racket" #"base.rkt") (collects #"lang" #"error.rkt") (collects #"net" #"url.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

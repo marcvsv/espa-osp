@@ -1,0 +1,1 @@
+("5.3.3" ("d10e2d2e7e439cc1a6caae1fc6a007012aaff3c4" . "a6aac481f69b884251b7dc5f4065f4720844df25") (collects #"racket" #"base.rkt") (collects #"macro-debugger" #"syntax-browser" #"interfaces.rkt") (collects #"unstable" #"class-iop.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

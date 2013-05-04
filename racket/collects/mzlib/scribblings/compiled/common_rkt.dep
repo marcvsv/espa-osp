@@ -1,0 +1,1 @@
+("5.3.3" ("b55efdd336cf30cd19285b043c514e0011ef3948" . "e76dfe8953a8da93036e4db2cbd5e2b70ed12f21") (collects #"scribble" #"manual.rkt") (collects #"scheme" #"base.rkt") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

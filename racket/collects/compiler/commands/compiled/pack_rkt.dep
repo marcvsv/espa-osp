@@ -1,0 +1,1 @@
+("5.3.3" ("e5811a55dedb18824d9fbc061e45ca70b939235e" . "9b93f1f98295d545dedcea0deedf517d8592c34f") (collects #"setup" #"getinfo.rkt") (collects #"scheme" #"base.rkt") (collects #"raco" #"command-name.rkt") (collects #"setup" #"pack.rkt") (collects #"compiler" #"distribute.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

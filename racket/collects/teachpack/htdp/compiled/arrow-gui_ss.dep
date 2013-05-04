@@ -1,0 +1,1 @@
+("5.3.3" ("fe4cf2504cceb77dad3d02baca12070816dc54c3" . "ce22d18574d6fae4a019b8a662cb6827f7e4002a") (collects #"racket" #"base.rkt") (collects #"htdp" #"arrow-gui.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

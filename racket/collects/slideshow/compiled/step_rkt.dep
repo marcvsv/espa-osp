@@ -1,0 +1,1 @@
+("5.3.3" ("6acdf651223624a786518b1209a08dff71746c54" . "44721404ab76e52277cd0b2348086e7a137cb92c") (collects #"slideshow" #"slideshow.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"etc.rkt") (collects #"scheme" #"mzscheme.rkt"))

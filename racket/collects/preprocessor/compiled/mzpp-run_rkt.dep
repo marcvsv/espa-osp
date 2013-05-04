@@ -1,0 +1,1 @@
+("5.3.3" ("7d0d3603c10b49dbeb315358109c490654083f25" . "38b34651d2acd8451a048acc71a29dad9f3dcc42") (collects #"scheme" #"base.rkt") (collects #"preprocessor" #"mzpp.rkt") (collects #"preprocessor" #"pp-run.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

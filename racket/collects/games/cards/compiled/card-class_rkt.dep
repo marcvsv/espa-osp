@@ -1,0 +1,1 @@
+("5.3.3" ("574990ced4000046531dd4698b78de8eef2f3274" . "3820932e6f76165ed5364fa4ca701109273ae44e") (collects #"mred" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"games" #"cards" #"region.rkt") (collects #"racket" #"class.rkt") (collects #"games" #"cards" #"snipclass.rkt") (collects #"racket" #"shared.rkt"))

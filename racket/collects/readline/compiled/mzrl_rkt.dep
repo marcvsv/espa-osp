@@ -1,0 +1,1 @@
+("5.3.3" ("8b4365b36cff286c8fab302e3c49e4a96fa32f29" . "89a46857dd1729eb7cc85c9855e28fb057621ffd") (collects #"mzlib" #"foreign.rkt") (collects #"scheme" #"base.rkt") (collects #"ffi" #"vector.rkt") (collects #"ffi" #"unsafe" #"cvector.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

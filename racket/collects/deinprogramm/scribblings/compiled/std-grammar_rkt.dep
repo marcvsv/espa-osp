@@ -1,0 +1,1 @@
+("5.3.3" ("f6171abd465a6da27a2fb06fe1b95359fde62504" . "bbe44aa70ce73476ca108c6f29e803f109071408") (collects #"scribblings" #"htdp-langs" #"common.rkt") (collects #"deinprogramm" #"DMdA-beginner.rkt") (collects #"scheme" #"base.rkt") (collects #"scribble" #"decode.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt") (collects #"scribble" #"reader.rkt"))

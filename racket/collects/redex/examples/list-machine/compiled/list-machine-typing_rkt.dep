@@ -1,0 +1,1 @@
+("5.3.3" ("7076faee30c35b72e22be7a4328b313761779258" . "8c812cf8715c948ff51c7d6a446ad734f77a01e9") (collects #"redex" #"main.rkt") (collects #"redex" #"examples" #"list-machine" #"list-machine.rkt") (collects #"racket" #"main.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"racket" #"lang" #"reader.rkt"))

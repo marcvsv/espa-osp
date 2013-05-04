@@ -1,0 +1,1 @@
+("5.3.3" ("0fef8390e75b99e5b09b994d53bb54377e0b6628" . "d5edbfbcf26ac559df7c8337243082b00ab0e4ac") (collects #"racket" #"base.rkt") (collects #"net" #"tcp-sig.rkt") (collects #"racket" #"async-channel.rkt") (collects #"racket" #"tcp.rkt") (collects #"racket" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

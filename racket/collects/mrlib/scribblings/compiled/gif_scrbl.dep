@@ -1,0 +1,1 @@
+("5.3.3" ("aa64b17acfedc86edc24a43a4e58963b92fcfe72" . "cf1d05a418323bcfd20b0851539380cb0a31b8ab") (collects #"mrlib" #"gif.rkt") (collects #"file" #"gif.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

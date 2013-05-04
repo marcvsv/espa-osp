@@ -1,0 +1,1 @@
+("5.3.3" ("6caa4e0cd44407ee136d1d314cb40b36a2f1282f" . "aebc75eff234c456de610642296851903fda2204") (collects #"redex" #"examples" #"delim-cont" #"meta.rkt") (collects #"redex" #"reduction-semantics.rkt") (collects #"racket" #"main.rkt") (collects #"redex" #"examples" #"delim-cont" #"grammar.rkt") (collects #"racket" #"lang" #"reader.rkt"))

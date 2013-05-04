@@ -1,0 +1,34 @@
+
+.Centertext {
+  text-align: center;
+  margin: 0 0 0 0;
+}
+
+.Centerfigure, .CenterfigureMulti, .centerfigureMultiWide, .Herefigure {
+  text-align: center;
+  margin: 0 0 0 0;
+}
+
+.Leftfigure, .LeftfigureMulti, .leftfigureMultiWide {
+  text-align: left;
+  margin: 0 0 0 0;
+}
+
+.Figure {
+  margin: 1em 0 1em 0;
+  width: 100%;
+  border: 1px solid #1818FF;
+}
+
+.CenterfigureMultiWide {
+  width: 125%;
+}
+
+.FigureInside {
+  margin: 1em 1em 1em 1em;
+}
+
+.Caption:before {
+  content: "Figure: ";
+}
+

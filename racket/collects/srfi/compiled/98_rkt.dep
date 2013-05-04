@@ -1,0 +1,1 @@
+("5.3.3" ("bdf392349d2f6ee234feb11a20897eda2b6866ee" . "4b8eac65b8eb9fba3649c5ab6dd9fab520f553e2") (collects #"scheme" #"foreign.rkt") (collects #"scheme" #"base.rkt") (collects #"ffi" #"vector.rkt") (collects #"ffi" #"unsafe" #"cvector.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

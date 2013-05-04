@@ -1,0 +1,1 @@
+("5.3.3" ("da9a1f9baa87e54d6119585d18f7b56f062df2d8" . "3b4902beb85bffbc36da458c523ea12173c7fa4f") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"etc.rkt") (collects #"texpict" #"private" #"common-sig.rkt") (collects #"scheme" #"unit" #"lang.rkt") (collects #"texpict" #"private" #"texpict-sig.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

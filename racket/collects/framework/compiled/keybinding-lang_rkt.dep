@@ -1,0 +1,1 @@
+("5.3.3" ("6f40c9da206df197eb2edb23838141297407801f" . "4c38d7ac1cedef79056735ff33abd0447e5fb7ff") (collects #"mred" #"main.rkt") (collects #"framework" #"main.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"main.rkt") (collects #"string-constants" #"main.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

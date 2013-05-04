@@ -1,0 +1,1 @@
+("5.3.3" ("39f35516ee90e41dfe2ab1d04329c1d48080b637" . "f0eba6af51aa1394e17278b63e9449c51059da1b") (collects #"r6rs" #"private" #"conds.rkt") (collects #"r6rs" #"private" #"exns.rkt") (collects #"scheme" #"base.rkt") (collects #"rnrs" #"io" #"ports-6.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.3.3" ("5ece3bdc3dfd38c8748427f382665100772563fa" . "163090c4500b54b366046b8017e3e13649693519") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"scheme" #"base.rkt") (collects #"slatex" #"slatex-wrapper.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

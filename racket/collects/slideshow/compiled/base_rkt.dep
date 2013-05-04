@@ -1,0 +1,1 @@
+("5.3.3" ("78e0c73c48e1da3bdc09b4cd1de734310dc6e55c" . "f964c5dbffd187809c4cf7c0cf0afeaf0a3e2355") (collects #"scheme" #"base.rkt") (collects #"slideshow" #"slide.rkt") (collects #"slideshow" #"core.rkt") (collects #"scheme" #"gui" #"base.rkt"))

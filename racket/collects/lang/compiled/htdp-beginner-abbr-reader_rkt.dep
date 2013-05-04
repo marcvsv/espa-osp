@@ -1,0 +1,1 @@
+("5.3.3" ("da9b86884e39e0f547f0223b7412b91bef51be61" . "15b418f6602244fa118f9f758d10ed341a4b5759") (collects #"lang" #"htdp-reader.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

@@ -1,0 +1,1 @@
+("5.3.3" ("cb81161b9bc945cbac8de51822ec4b0803250699" . "4895146d6e5e7d9d55ca63d123f134ccc555866f") (collects #"scheme" #"base.rkt") (collects #"scheme" #"file.rkt") (collects #"file" #"gzip.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

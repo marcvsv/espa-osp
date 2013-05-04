@@ -1,0 +1,1 @@
+("5.3.3" ("514815d7708e2401b9158d31ab23d949b6c1fb45" . "fb37c66ece983188273b74a89b35de946fd31162") (collects #"mred" #"main.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"class.rkt") (collects #"games" #"lights-out" #"boards.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

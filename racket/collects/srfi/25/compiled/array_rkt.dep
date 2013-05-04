@@ -1,0 +1,1 @@
+("5.3.3" ("4f63021f1ca25f0bfbce57f3d28ce1f8df726f2b" . "9198a6e16893134b44a3bb7355563302d2fbcf2e") (collects #"srfi" #"9.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"include.rkt") (ext collects #"srfi" #"25" #"arlib.scm") (ext collects #"srfi" #"25" #"op-ctor.scm") (ext collects #"srfi" #"25" #"ix-ctor.scm"))

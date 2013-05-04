@@ -1,0 +1,1 @@
+("5.3.3" ("713ce838ee2ed9d55f20dfc35846a2d0cae932f1" . "6fa4e5560c2827148feccac7341ddaa0837f6d11") (collects #"racket" #"base.rkt") (collects #"racket" #"unit.rkt") (collects #"net" #"sendmail-sig.rkt") (collects #"net" #"sendmail.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

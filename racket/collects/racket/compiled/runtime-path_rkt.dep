@@ -1,0 +1,1 @@
+("5.3.3" ("487051393f608bd408c48fe14e93c94210420cfe" . "5d18b5068ca4fccc7ff31b5bc0d60a2e16074f31") (collects #"racket" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"setup" #"dirs.rkt") (collects #"racket" #"private" #"runtime-path-table.rkt") (collects #"racket" #"private" #"this-expression-source-directory.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

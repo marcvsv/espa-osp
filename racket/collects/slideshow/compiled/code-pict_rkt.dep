@@ -1,0 +1,1 @@
+("5.3.3" ("17b1e02fea59960a002d6758dcde81fce86c5799" . "c79075bafa7df6e29525e16562de89b493aeedc4") (collects #"racket" #"base.rkt") (collects #"mzlib" #"list.rkt") (collects #"syntax" #"to-string.rkt") (collects #"slideshow" #"pict.rkt") (collects #"texpict" #"code.rkt") (collects #"mzlib" #"unit.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

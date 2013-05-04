@@ -1,0 +1,1 @@
+("5.3.3" ("25ce401f06273343bf68ea8b71ce7d9f19f96704" . "16be97d0cd4588b3faf63f860794230a4abe94ca") (collects #"launcher" #"launcher.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

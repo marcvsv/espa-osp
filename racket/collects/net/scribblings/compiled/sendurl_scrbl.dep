@@ -1,0 +1,1 @@
+("5.3.3" ("fb1d21884ef2f2d86fa85a85d5d20e508ef41f47" . "df9fce5c1fc69c1008fc2b02da44c3d47dee7c2d") (collects #"scribble" #"doclang.rkt") (collects #"net" #"sendurl.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"racket" #"file.rkt") (collects #"syntax" #"parse" #"private" #"runtime-report.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

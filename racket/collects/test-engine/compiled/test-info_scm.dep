@@ -1,0 +1,1 @@
+("5.3.3" ("e94c9ce21b9fc2b902699ac961de9b1a116d04e3" . "91501e4a0fc6f67b33faca9484e485342119cf5b") (collects #"scheme" #"class.rkt") (collects #"scheme" #"base.rkt") (collects #"deinprogramm" #"quickcheck" #"quickcheck.rkt") (collects #"test-engine" #"print.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

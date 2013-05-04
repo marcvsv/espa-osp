@@ -1,0 +1,1 @@
+("5.3.3" ("b93d0efd79e0800114563925d7a8a59c6a14af52" . "b231c04f97c3649b91b69e12e85d14141f6fda5a") (collects #"framework" #"main.rkt") (collects #"racket" #"gui.rkt") (collects #"slideshow" #"pict.rkt") (collects #"future-visualizer" #"private" #"display.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))

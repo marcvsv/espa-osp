@@ -1,0 +1,1 @@
+("5.3.3" ("9e07f63ce4525b9e4e2ab0f509ad0356958cdae9" . "2c1ed356e504e86e1a93bb31a88ed664d33ab525") (collects #"parser-tools" #"private-lex" #"token-syntax.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

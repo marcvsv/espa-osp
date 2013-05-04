@@ -1,0 +1,1 @@
+("5.3.3" ("0b17de61276f8f8b334f9347f224a81e85f67351" . "d0be5013141ad9c03e888f555d701b171f24a27a") (collects #"ffi" #"unsafe" #"nsalloc.rkt") (collects #"ffi" #"unsafe" #"objc.rkt") (collects #"ffi" #"unsafe" #"alloc.rkt") (collects #"racket" #"base.rkt") (collects #"ffi" #"unsafe" #"atomic.rkt") (collects #"ffi" #"unsafe.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

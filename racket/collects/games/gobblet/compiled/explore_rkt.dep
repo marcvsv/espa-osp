@@ -1,0 +1,1 @@
+("5.3.3" ("4366f42ea607262fb6e3d6d975df2ceac7b0a9ee" . "1f71938218f2aadb59fd482250d678f073d456fd") (collects #"games" #"gobblet" #"sig.rkt") (collects #"mzlib" #"list.rkt") (collects #"games" #"gobblet" #"test.rkt") (collects #"mzlib" #"etc.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"unitsig.rkt"))

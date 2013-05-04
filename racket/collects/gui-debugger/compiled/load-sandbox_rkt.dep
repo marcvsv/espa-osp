@@ -1,0 +1,1 @@
+("5.3.3" ("50054042573cfe8449c7c0b647c5c77820c76acf" . "fde7e4984072d558de81999cab81addeedc6050c") (collects #"mred" #"main.rkt") (collects #"racket" #"private" #"namespace.rkt") (collects #"mzlib" #"class.rkt") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"moddep.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

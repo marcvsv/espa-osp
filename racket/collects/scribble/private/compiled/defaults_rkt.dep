@@ -1,0 +1,1 @@
+("5.3.3" ("1cf7a8118b8d7300e7ce8e4c35d53773357bedc6" . "a01880f438a03510eca66268df2d0b45bccc892b") (collects #"scheme" #"base.rkt") (collects #"scribble" #"latex-properties.rkt") (collects #"setup" #"main-collects.rkt") (collects #"scribble" #"core.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))
